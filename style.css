@@ -72,7 +72,6 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
 .keyboard-row-container {
