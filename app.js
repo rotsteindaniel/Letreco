@@ -12,7 +12,11 @@ const rows = 6;
 const columns = 5;
 let currentRow = 0;
 let currentColumn = 0;
-let letreco = "LETRA";
+let word = window.prompt("Escolha uma palavra de 5 letras");
+if (word.length !== 5) {
+  word = window.prompt("A palavra deve ter 5 letras");
+}
+let letreco = word.toUpperCase();
 let letrecoMap = {};
 for (let index = 0; index < letreco.length; index++) {
   letrecoMap[letreco[index]] = index;
