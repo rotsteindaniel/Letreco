@@ -13,7 +13,7 @@ const columns = 5;
 let currentRow = 0;
 let currentColumn = 0;
 let word = window.prompt("Escolha uma palavra de 5 letras");
-if (word.length !== 5) {
+while (word.length !== 5) {
   word = window.prompt("A palavra deve ter 5 letras");
 }
 let letreco = word.toUpperCase();
