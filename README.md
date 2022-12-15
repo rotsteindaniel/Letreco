@@ -1,6 +1,4 @@
-![Letreco - um jogo diário de adivinhar palavras](public/splash.png)
-
-# Letreco - um jogo diário de adivinhar palavras
+# Letreco - um jogo de adivinhar palavras
 
 O [**Letreco**](https://gabtoschi.com/letreco) é um jogo web de adivinhação de palavras, criado como uma versão brasileira não-oficial do [Wordle](https://www.powerlanguage.co.uk/wordle/). Todos os dias, todos os jogadores que entram no site tem uma palavra de 5 letras para descobrir usando até 6 tentativas. Cada tentativa deve ser uma palavra válida e o jogo dá dicas a partir destes chutes, falando quais letras não estão na palavra ou se elas estão na posição correta na palavra.
 
