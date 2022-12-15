@@ -19,4 +19,4 @@ Neste caso utilizei o vídeo (https://www.youtube.com/watch?v=ceWOxPgw0pc) do ca
 
 O código-fonte do Letreco está disponível de forma aberta segundo a MIT License. O código original do jogo em português foi feito por Gabriel Toschi (https://gabtoschi.com) utilizando outras tecnologias.
 
-Entretanto, **a marca Letreco não está disponível para uso público**. Já temos uma comunidade em volta deste nome e toda e qualquer coisa que utilize o nome do Letreco deve ser feito com expressa autorização minha. Você pode acompanhar [o twitter oficial do Letreco](https://twitter.com/MeuLetreco) para ver tudo que é feito oficialmente por mim dentro do Letreco.
+Entretanto, **a marca Letreco não está disponível para uso público**. Já temos uma comunidade em volta deste nome e toda e qualquer coisa que utilize o nome do Letreco deve ser feito com expressa autorização minha. Você pode acompanhar [o twitter oficial do Letreco](https://twitter.com/MeuLetreco) para ver tudo que é feito oficialmente por Gabriel Toschi dentro do Letreco.
