@@ -1,5 +1,7 @@
 # Letreco - um jogo de adivinhar palavras
 
+<img src="/LetrecoIMG.jpg" alt="Imagem do jogo letreco" />
+
 Para rodar o jogo basta:
 
 - Baixar o Código,
